@@ -1,0 +1,50 @@
+{
+  "provider": "Pokémon Showdown / Smogon sprite contributors",
+  "credits": "https://github.com/smogon/sprites",
+  "sprites": {
+    "barbaraclemega": {
+      "name": "Barbaracle-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sbarbaracle-omega.png"
+    },
+    "dragalgemega": {
+      "name": "Dragalge-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sdragalge-omega.png"
+    },
+    "eelektrossmega": {
+      "name": "Eelektross-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/seelektross-omega.png"
+    },
+    "falinksmega": {
+      "name": "Falinks-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sfalinks-omega.png"
+    },
+    "malamarmega": {
+      "name": "Malamar-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/smalamar-omega.png"
+    },
+    "pyroarmega": {
+      "name": "Pyroar-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/spyroar-omega.png"
+    },
+    "raichumegax": {
+      "name": "Raichu-Mega-X",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sraichu-omega_x.png"
+    },
+    "raichumegay": {
+      "name": "Raichu-Mega-Y",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sraichu-omega_y.png"
+    },
+    "scolipedemega": {
+      "name": "Scolipede-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sscolipede-omega.png"
+    },
+    "scraftymega": {
+      "name": "Scrafty-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sscrafty-omega.png"
+    },
+    "staraptormega": {
+      "name": "Staraptor-Mega",
+      "source": "https://raw.githubusercontent.com/smogon/sprites/master/src/champions/sstaraptor-omega.png"
+    }
+  }
+}
